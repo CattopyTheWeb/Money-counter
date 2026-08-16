@@ -10,4 +10,5 @@ I made this project just to get more experiance with encryption.
 # Requirement:
 ## The only requirement needed to run it is, to install cryptography
 `pip install cryptography`
+
 It is also advisable to run the script in it's own folder as it creates 3 other files (you won't need to open them) but just a warning.
